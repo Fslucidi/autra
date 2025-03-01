@@ -47,5 +47,3 @@ This method is simpler but not suitable for large files. For usage, simply chang
 ffmpeg -i path/to/your/original/file.mp3 path/to/your/converted/file.wav
 ```
 Replace path/to/your/original/file and path/to/your/converted/file.wav with the actual paths to your audio files. This setup allows you to transcribe audio effectively using Python on macOS.
-
-You can just select, copy, and paste this text into your README file. Adjust the specific paths and details as necessary for your project.
